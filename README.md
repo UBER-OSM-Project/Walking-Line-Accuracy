@@ -1,4 +1,4 @@
-**Improving Walking Accuracy Projects**
+**Improving Walking Accuracy Project**
 
 A key focus of our mapping initiative is the creation and refinement of walking lines and sidewalks across the United States. By enriching this data, we aim to support better pedestrian navigation and accessibility. Our dedicated team—based in India and California—will be actively contributing to OSM by:
 Creating and updating walking paths and sidewalks to enhance walkability.
