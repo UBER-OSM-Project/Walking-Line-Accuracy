@@ -4,7 +4,7 @@ A key focus of our mapping initiative is the creation and refinement of walking 
 
   1. Creating and updating walking paths and sidewalks to enhance walkability.
   2. Mapping indoor airport features such as terminals, entrances, security checks, elevators, and escalators for improved indoor navigation.
-  3. Collaborating with local operations teams
+  3. Collaborating with local operations teams for groundtruth validation and accuracy
   4. Ensuring all edits comply with OSM’s Organized Editing Best Practices.
 
 
